@@ -280,7 +280,7 @@ DEPENDENCIES
   brakeman
   capybara
   debug
-  error_highlight (>= 0.6.0)
+  error_highlight (>= 0.3.0)
   importmap-rails
   jbuilder
   pg (~> 1.1)
